@@ -8,8 +8,8 @@
 
 最后分数是 **线下：40.36  线上：41.77**
 
-代码开源地址：
-
+数据集地址：
+链接: https://pan.baidu.com/s/1W9GF8E1Sg-kHFMSrRNU8gA 提取码: s9qj
 
 
 ## 赛题理解

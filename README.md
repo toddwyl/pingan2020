@@ -11,6 +11,7 @@
 数据集地址：
 链接: https://pan.baidu.com/s/1W9GF8E1Sg-kHFMSrRNU8gA 提取码: s9qj
 
+开源代码是 **work/41_label_onehot.ipynb**
 
 ## 赛题理解
 
